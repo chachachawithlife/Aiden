@@ -102,3 +102,9 @@ footer {
     color: #2f0ae5;
     font-weight: bolder;
 }
+
+.posts{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
